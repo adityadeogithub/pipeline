@@ -1,0 +1,40 @@
+{
+  "name": "rest_api_template",
+  "version": "1.0.0",
+  "description": "Rest server for wAnywhere",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Siddhartha Chandurkar",
+  "license": "ShepHertz IP",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "currency-converter-lt": "^1.2.3",
+    "dinero.js": "^1.9.1",
+    "express": "^4.17.1",
+    "express-prom-bundle": "^6.0.0",
+    "feature-policy": "^0.5.0",
+    "helmet": "^3.23.1",
+    "json2csv": "^5.0.6",
+    "jsonexport": "^3.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "mongoose": "^5.12.8",
+    "nocache": "^2.1.0",
+    "prom-client": "^12.0.0",
+    "uuid": "^8.3.2",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^8.1.0",
+    "babel-preset-es2015": "^6.24.1",
+    "nodemon": "^2.0.2",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.2.0"
+  }
+}

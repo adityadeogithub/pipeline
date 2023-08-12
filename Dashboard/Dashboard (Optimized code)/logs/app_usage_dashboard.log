@@ -1,0 +1,77 @@
+Fri, 04 Aug 2023 08:58:22 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 08:59:38 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:00:11 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:01:12 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:01:56 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:11:24 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:16:38 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:16:38 GMT | [33mDEBUG[39m | app_usage_dashboard | web | data:{"organization":"shephertz","date":{"$gte":"2023-06-30T18:30:00.000Z","$lt":"2023-08-30T18:29:59.999Z"}} | 
+Fri, 04 Aug 2023 09:19:30 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:19:30 GMT | [33mDEBUG[39m | app_usage_dashboard | web | data:{"organization":"shephertz","date":{"$gte":"2023-06-30T18:30:00.000Z","$lt":"2023-08-30T18:29:59.999Z"}} | 
+Fri, 04 Aug 2023 09:20:01 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:20:01 GMT | [33mDEBUG[39m | app_usage_dashboard | web | data:{"organization":"shephertz","date":{"$gte":"2023-06-30T18:30:00.000Z","$lt":"2023-08-30T18:29:59.999Z"}} | 
+Fri, 04 Aug 2023 09:20:23 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:20:23 GMT | [33mDEBUG[39m | app_usage_dashboard | web | data:{"organization":"shephertz","date":{"$gte":"2023-06-30T18:30:00.000Z","$lt":"2023-08-30T18:29:59.999Z"}} | 
+Fri, 04 Aug 2023 09:20:37 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:20:42 GMT | [33mDEBUG[39m | app_usage_dashboard | web | data:{"organization":"shephertz","date":{"$gte":"2023-06-30T18:30:00.000Z","$lt":"2023-08-30T18:29:59.999Z"}} | 
+Fri, 04 Aug 2023 09:21:05 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:21:05 GMT | [33mDEBUG[39m | app_usage_dashboard | web | data:{"organization":"shephertz","date":{"$gte":"2023-06-30T18:30:00.000Z","$lt":"2023-08-30T18:29:59.999Z"}} | 
+Fri, 04 Aug 2023 09:21:41 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:21:41 GMT | [33mDEBUG[39m | app_usage_dashboard | web | data:{"organization":"shephertz","date":{"$gte":"2023-06-30T18:30:00.000Z","$lt":"2023-08-30T18:29:59.999Z"}} | 
+Fri, 04 Aug 2023 09:22:05 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:22:05 GMT | [33mDEBUG[39m | app_usage_dashboard | web | data:{"organization":"shephertz","date":{"$gte":"2023-06-30T18:30:00.000Z","$lt":"2023-08-30T18:29:59.999Z"}} | 
+Fri, 04 Aug 2023 09:24:52 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:25:03 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:25:03 GMT | [33mDEBUG[39m | app_usage_dashboard | web | data:{"organization":"shephertz","date":{"$gte":"2023-06-30T18:30:00.000Z","$lt":"2023-08-30T18:29:59.999Z"}} | 
+Fri, 04 Aug 2023 09:29:28 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:29:29 GMT | [33mDEBUG[39m | app_usage_dashboard | web | data:{"organization":"shephertz","department":{"$in":["sales1","demo","development","test","default","test1","test2","test3","test4","test5","test6","test7","test8","test9","test10"]},"date":{"$gte":"2023-06-30T18:30:00.000Z","$lt":"2023-08-30T18:29:59.999Z"}} | 
+Fri, 04 Aug 2023 09:29:36 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:33:02 GMT | [33mDEBUG[39m | app_usage_dashboard | data444 | 
+Fri, 04 Aug 2023 09:33:02 GMT | [33mDEBUG[39m | app_usage_dashboard | department | data:"sales1" | 
+Fri, 04 Aug 2023 09:33:11 GMT | [33mDEBUG[39m | app_usage_dashboard | data444 | 
+Fri, 04 Aug 2023 09:33:11 GMT | [33mDEBUG[39m | app_usage_dashboard | department | data:"sales1" | 
+Fri, 04 Aug 2023 09:33:23 GMT | [33mDEBUG[39m | app_usage_dashboard | data444 | 
+Fri, 04 Aug 2023 09:33:23 GMT | [33mDEBUG[39m | app_usage_dashboard | department | data:"sales1" | 
+Fri, 04 Aug 2023 09:40:10 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:41:26 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:43:06 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 09:43:36 GMT | [31mERROR[39m | app_usage_dashboard | ReferenceError: productive is not defined | 
+Fri, 04 Aug 2023 12:01:02 GMT | [31mERROR[39m | app_usage_dashboard | ReferenceError: inputArray is not defined | 
+Fri, 04 Aug 2023 12:15:36 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 12:20:31 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-07-24T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:20:31 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-01T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:20:43 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-07-24T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:20:43 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-02T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:20:47 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-07-24T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:20:47 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-02T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:20:49 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-07-24T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:20:49 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-02T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:21:05 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-08-03T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:21:05 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-04T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:21:08 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-08-03T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:21:08 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-04T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:21:18 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-07-03T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:21:18 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-04T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:22:40 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-07-28T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:22:40 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-04T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:36:05 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-07-03T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:36:05 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-04T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:36:58 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 12:37:17 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-08-03T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:37:17 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-04T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:37:38 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-08-03T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:37:38 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-04T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:42:05 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 12:42:11 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-08-03T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:42:11 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-04T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:42:17 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-08-03T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:42:17 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-04T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:42:24 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-07-03T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:42:24 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-04T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:42:43 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-07-03T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:42:43 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-04T18:29:59.999Z" | 
+Fri, 04 Aug 2023 12:43:08 GMT | [33mDEBUG[39m | app_usage_dashboard | type | data:"Organization" | 
+Fri, 04 Aug 2023 12:43:58 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-07-03T18:30:00.000Z" | 
+Fri, 04 Aug 2023 12:43:58 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-04T18:29:59.999Z" | 
+Fri, 04 Aug 2023 13:06:29 GMT | [33mDEBUG[39m | app_usage_dashboard | from = | data:"2023-07-03T18:30:00.000Z" | 
+Fri, 04 Aug 2023 13:06:29 GMT | [33mDEBUG[39m | app_usage_dashboard | till = | data:"2023-08-04T18:29:59.999Z" | 

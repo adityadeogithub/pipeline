@@ -1,0 +1,58 @@
+Thu, 03 Aug 2023 11:49:42 GMT | [33mDEBUG[39m | dashboard | From | data:"2023-08-01T18:30:00.000Z" | 
+Thu, 03 Aug 2023 11:49:42 GMT | [33mDEBUG[39m | dashboard | Till | data:"2023-08-02T18:29:59.999Z" | 
+Thu, 03 Aug 2023 11:49:49 GMT | [33mDEBUG[39m | dashboard | From | data:"2023-08-01T18:30:00.000Z" | 
+Thu, 03 Aug 2023 11:49:49 GMT | [33mDEBUG[39m | dashboard | Till | data:"2023-08-02T18:29:59.999Z" | 
+Thu, 03 Aug 2023 11:50:31 GMT | [33mDEBUG[39m | dashboard | From | data:"2023-08-01T18:30:00.000Z" | 
+Thu, 03 Aug 2023 11:50:31 GMT | [33mDEBUG[39m | dashboard | Till | data:"2023-08-02T18:29:59.999Z" | 
+Thu, 03 Aug 2023 11:50:36 GMT | [33mDEBUG[39m | dashboard | From | data:"2023-08-01T18:30:00.000Z" | 
+Thu, 03 Aug 2023 11:50:36 GMT | [33mDEBUG[39m | dashboard | Till | data:"2023-08-02T18:29:59.999Z" | 
+Fri, 04 Aug 2023 06:49:10 GMT | [32mINFO[39m | dashboard | From  ==  | data:"2023-06-28T18:30:00.000Z" | 
+Fri, 04 Aug 2023 06:49:10 GMT | [32mINFO[39m | dashboard | To  ==  | data:"2023-06-29T18:29:59.999Z" | 
+Fri, 04 Aug 2023 06:50:09 GMT | [32mINFO[39m | dashboard | From  ==  | data:"2023-07-28T18:30:00.000Z" | 
+Fri, 04 Aug 2023 06:50:09 GMT | [32mINFO[39m | dashboard | To  ==  | data:"2023-07-29T18:29:59.999Z" | 
+Fri, 04 Aug 2023 06:50:53 GMT | [32mINFO[39m | dashboard | From  ==  | data:"2023-07-28T18:30:00.000Z" | 
+Fri, 04 Aug 2023 06:50:53 GMT | [32mINFO[39m | dashboard | To  ==  | data:"2023-07-29T18:29:59.999Z" | 
+Fri, 04 Aug 2023 06:54:51 GMT | [32mINFO[39m | dashboard | From  ==  | data:"2023-07-28T18:30:00.000Z" | 
+Fri, 04 Aug 2023 06:54:51 GMT | [32mINFO[39m | dashboard | To  ==  | data:"2023-07-29T18:29:59.999Z" | 
+Fri, 04 Aug 2023 06:56:29 GMT | [32mINFO[39m | dashboard | From  ==  | data:"2023-07-28T18:30:00.000Z" | 
+Fri, 04 Aug 2023 06:56:29 GMT | [32mINFO[39m | dashboard | To  ==  | data:"2023-07-29T18:29:59.999Z" | 
+Fri, 04 Aug 2023 06:57:02 GMT | [32mINFO[39m | dashboard | From  ==  | data:"2023-07-28T18:30:00.000Z" | 
+Fri, 04 Aug 2023 06:57:02 GMT | [32mINFO[39m | dashboard | To  ==  | data:"2023-07-29T18:29:59.999Z" | 
+Fri, 04 Aug 2023 13:11:47 GMT | [33mDEBUG[39m | dashboard | inDepartments | data:["sales1","demo","development","test","default","test1","test2","test3","test4","test5","test6","test7","test8","test9","DEFAULT","ALL"] | 
+Fri, 04 Aug 2023 13:17:34 GMT | [33mDEBUG[39m | dashboard | inDepartments | data:["sales1","demo","development","test","default","test1","test2","test3","test4","test5","test6","test7","test8","test9","DEFAULT","ALL"] | 
+Fri, 04 Aug 2023 13:32:25 GMT | [33mDEBUG[39m | dashboard | inDepartments | data:["sales1","demo","development","test","default","test1","test2","test3","test4","test5","test6","test7","test8","test9","DEFAULT","ALL"] | 
+Fri, 04 Aug 2023 13:33:22 GMT | [33mDEBUG[39m | dashboard | inDepartments | data:["sales1","demo","development","test","default","test1","test2","test3","test4","test5","test6","test7","test8","test9","DEFAULT","ALL"] | 
+Fri, 04 Aug 2023 13:34:49 GMT | [33mDEBUG[39m | dashboard | inDepartments | data:["sales1","demo","development","test","default","test1","test2","test3","test4","test5","test6","test7","test8","test9","DEFAULT","ALL"] | 
+Fri, 04 Aug 2023 13:35:16 GMT | [33mDEBUG[39m | dashboard | inDepartments | data:["sales1","demo","development","test","default","test1","test2","test3","test4","test5","test6","test7","test8","test9","DEFAULT","ALL"] | 
+Fri, 04 Aug 2023 13:35:47 GMT | [33mDEBUG[39m | dashboard | inDepartments | data:["sales1","demo","development","test","default","test1","test2","test3","test4","test5","test6","test7","test8","test9","DEFAULT","ALL"] | 
+Fri, 04 Aug 2023 13:53:24 GMT | [33mDEBUG[39m | dashboard | inDepartments | data:["sales1","demo","development","test","default","test1","test2","test3","test4","test5","test6","test7","test8","test9","DEFAULT","ALL"] | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"sales1" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"demo" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"development" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"test" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"default" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"test1" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"test2" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"test3" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"test4" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"test5" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"test6" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"test7" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"test8" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"test9" | 
+Fri, 04 Aug 2023 14:05:15 GMT | [33mDEBUG[39m | dashboard | element | data:"DEFAULT" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"sales1" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"demo" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"development" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"test" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"default" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"test1" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"test2" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"test3" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"test4" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"test5" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"test6" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"test7" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"test8" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"test9" | 
+Fri, 04 Aug 2023 14:07:07 GMT | [33mDEBUG[39m | dashboard | element | data:"DEFAULT" | 
